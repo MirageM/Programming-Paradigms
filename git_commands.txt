@@ -3,3 +3,9 @@ git add .
 git commit -m ' '
 git remote add origin
 git push -u origin master
+
+
+
+merge commit
+git pull
+git push
